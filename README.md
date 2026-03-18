@@ -6,7 +6,7 @@ CLI calculator for Maximum volumetric speed for 3D printing
 git clone https://github.com/deltashrimp/maximum-volumetric-speed-calculator.git
 ```
 ```bash
-cd maximum-volumetric-speed-calculator/src
+cd maximum-volumetric-speed-calculator/source
 ```
 ```bash
 ./MVS_Calculator
